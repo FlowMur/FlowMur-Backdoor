@@ -10,7 +10,7 @@
 
 ## 205B_Response
 ### 1. *p*-values
-![p-value](p-value.png)
+<img src="p-value.png" width="50%">
 
 ## 205C_Response
 
