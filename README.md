@@ -9,7 +9,7 @@
 ## 205A_Response
 
 ## 205B_Response
-### 1. p-values
+### 1. *p*-values
 ![p-value](p-value.png)
 
 ## 205C_Response
