@@ -18,10 +18,11 @@
 <img src="SNR.png" width="50%">
 
 ## 205C_Response
+<img src="fig-7b.png" width="50%">
 
 ## 205D_Response
 ### 1. Extended Table 1
-<img src="table1.png" width="75%">
+<img src="table1.png" width="100%">
 
 ### 2. Audio waveforms, spectrograms and MFCCs for different cases 
-<img src="sample-fig.png" width="75%">
+<img src="sample-fig.png" width="100%">
