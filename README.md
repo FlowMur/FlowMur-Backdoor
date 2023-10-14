@@ -21,3 +21,6 @@
 ## 205D_Response
 ### 1. Extended Table 1
 <img src="table1.png" width="75%">
+
+### 2. Audio waveforms, spectrograms and MFCCs for different cases 
+<img src="sample_figure.png" width="75%">
