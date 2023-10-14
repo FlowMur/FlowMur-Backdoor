@@ -24,4 +24,4 @@
 <img src="table1.png" width="75%">
 
 ### 2. Audio waveforms, spectrograms and MFCCs for different cases 
-<img src="sample-figure.png" width="75%">
+<img src="sample-fig.png" width="75%">
