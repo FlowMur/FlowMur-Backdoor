@@ -18,3 +18,5 @@
 ## 205C_Response
 
 ## 205D_Response
+### 1. Extended Table 1
+<img src="table1.png" width="75%">
