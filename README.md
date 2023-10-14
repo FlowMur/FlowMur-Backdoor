@@ -4,6 +4,7 @@
 <img src="data-balance.png" width="75%">
 
 ## C2: additional datasets with long sample duration (205A, 205B, 205C)
+<img src="effectiveness.png" width="60%">
 
 ## C3: additional defense (205B, 205C)
 
@@ -11,7 +12,7 @@
 
 ## 205B_Response
 ### 1. *p*-values
-<img src="p-value.png" width="50%">
+<img src="effectiveness.png" width="60%">
 
 ### 2. SNR
 <img src="SNR.png" width="50%">
