@@ -12,6 +12,9 @@
 ### 1. *p*-values
 <img src="p-value.png" width="50%">
 
+### 2. SNR
+<img src="SNR.png" width="50%">
+
 ## 205C_Response
 
 ## 205D_Response
