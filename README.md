@@ -19,7 +19,7 @@
 <img src="SNR.png" width="50%">
 
 ## 205C_Response
-
+<img src="fig-7.png" width="50%">
 
 ## 205D_Response
 ### 1. Extended Table 1
