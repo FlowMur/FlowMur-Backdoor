@@ -7,6 +7,7 @@
 <img src="effectiveness.png" width="60%">
 
 ## C3: additional defense (205B, 205C)
+<img src="defense.png" width="50%">
 
 ## 205A_Response
 
