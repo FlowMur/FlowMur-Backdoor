@@ -10,6 +10,10 @@
 <img src="./img/defense.png" width="50%">
 
 ## 205A_Response
+<img src="./img/smallcnn.png" width="55%">
+<img src="./img/largecnn.png" width="50%">
+<img src="./img/rnn.png" width="31%">
+<img src="./img/resnet.png" width="65%">
 
 ## 205B_Response
 ### 1. *p*-values
