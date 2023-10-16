@@ -1,12 +1,12 @@
 # FlowMur-Rebuttal
 
-## C1: auxiliary dataset size (205A, 205B, 205D)
+## C1: Auxiliary dataset size (205A, 205B, 205D)
 <img src="./img/data-balance.png" width="75%">
 
-## C2: additional datasets with long sample duration (205A, 205B, 205C)
+## C2: Additional datasets with long sample duration (205A, 205B, 205C)
 <img src="./img/fsc.png" width="60%">
 
-## C3: additional defense (205B, 205C)
+## C3: Additional defense (205B, 205C)
 <img src="./img/defense.png" width="50%">
 
 ## 205A_Response
