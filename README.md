@@ -36,4 +36,7 @@
 <img src="./img/backdoor-inference.png" width="52%">
 
 ### 4. Experimental settings and datasets statistics
-
+<img src="./img/setting-1.png" width="29%">
+<img src="./img/setting-2.png" width="34%">
+<img src="./img/setting-3.png" width="36%">
+<img src="./img/setting-4.png" width="50%">
