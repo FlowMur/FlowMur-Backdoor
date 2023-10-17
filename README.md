@@ -19,7 +19,9 @@
 ### 1. *p*-values
 <img src="./img/fsc.png" width="60%">
 
-### 2. SNR
+### 2. Tests on speaker recognition
+
+### 3. SNR
 <img src="./img/SNR.png" width="50%">
 
 ## 205C_Response
