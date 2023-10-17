@@ -33,4 +33,4 @@
 <img src="./img/sample-fig.png" width="100%">
 
 ### 3. An attack example of FlowMur 
-<img src="./img/backdoor-inference.png" width="50%">
+<img src="./img/backdoor-inference.png" width="52%">
