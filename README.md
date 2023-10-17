@@ -42,4 +42,4 @@
 <img src="./img/setting-1.png" width="29%">
 <img src="./img/setting-2.png" width="35%">
 <img src="./img/setting-3.png" width="35%">
-<img src="./img/setting-4.png" width="50%">
+<img src="./img/setting4.png" width="60%">
