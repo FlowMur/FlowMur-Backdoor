@@ -34,3 +34,6 @@
 
 ### 3. An attack example of FlowMur 
 <img src="./img/backdoor-inference.png" width="52%">
+
+### 4. Experimental settings and datasets statistics
+
