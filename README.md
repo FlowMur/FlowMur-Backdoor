@@ -20,6 +20,7 @@
 <img src="./img/fsc.png" width="60%">
 
 ### 2. Tests on speaker recognition
+<img src="./img/speaker.png" width="40%">
 
 ### 3. SNR
 <img src="./img/SNR.png" width="50%">
