@@ -8,6 +8,7 @@
 
 ## C3: Additional defense (205B, 205C)
 <img src="./img/defense.png" width="50%">
+<img src="./img/Beatrix.png" width="50%">
 
 ## 205A_Response
 <img src="./img/small-cnn.png" width="55%">
